@@ -1,7 +1,7 @@
 {
   "name": "skill-sample-nodejs-fact-i18n",
   "version": "2.0.0",
-  "description": "I18n version of fact skill. Ryan is so cool",
+  "description": "I18n version of fact skill. Eugenia is so cool",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
